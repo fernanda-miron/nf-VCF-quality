@@ -8,7 +8,7 @@ of a VCF given a % of missigness
 
 ### Workflow overview
 
-![General Workflow](dev_notes/PBS_tool.jpg)
+![General Workflow](dev_notes/Quality Flow.png)
 
 ------------------------------------------------------------------------
 
